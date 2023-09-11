@@ -1,2 +1,2 @@
 # encryptionApp
- This is an AES encryption-decryption app
+ This is an app to encrypt & decrypt text messages using AES encryption
